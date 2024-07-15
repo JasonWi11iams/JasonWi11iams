@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasonWi11iams
 - 👀 I’m interested in anything new.
-- 🌱 I’m currently learning bash scripting.
+- 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...
 
